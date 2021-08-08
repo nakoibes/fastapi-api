@@ -1,0 +1,7 @@
+version: "2.2"
+services:
+  patient-signatures:
+    build: .
+    container_name: patient-signatures
+    ports:
+      - 0.0.0.0:8000:8000
