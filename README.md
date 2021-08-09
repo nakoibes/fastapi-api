@@ -18,7 +18,7 @@
 
 ### Получить значения всех сигнатур данного пациента
 
-![image](https://user-images.githubusercontent.com/81371413/128725786-520f5f92-406b-4ff2-881a-289262ab15ec.png)
+![image](https://user-images.githubusercontent.com/81371413/128726174-608bd83a-a6ee-4f66-b157-f9d3cc0ea2a7.png)
 
 
 ### Получить среднее значение данный сигнатуры по всем пациентам
