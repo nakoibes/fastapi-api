@@ -20,14 +20,17 @@
 
 ### Получить значения выбранных сигнатур данного пациента
 
+![image](https://user-images.githubusercontent.com/81371413/128727319-b5260be2-6db9-4fc5-9829-d10afdb387d8.png)
+
+
 ### Получить значения всех сигнатур данного пациента
 
-![image](https://user-images.githubusercontent.com/81371413/128726174-608bd83a-a6ee-4f66-b157-f9d3cc0ea2a7.png)
+![image](https://user-images.githubusercontent.com/81371413/128727372-186cbe09-cd7b-4f8c-95e3-3790a0943616.png)
 
 
 ### Получить среднее значение данный сигнатуры по всем пациентам
 
-![image](https://user-images.githubusercontent.com/81371413/128725834-27635d71-6547-45ad-968f-5ab91a89678b.png)
+![image](https://user-images.githubusercontent.com/81371413/128727510-7dc69c28-172f-4e6d-8a7a-f2826028bbab.png)
 
 
 ## Установка через Docker<br>
