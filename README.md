@@ -32,7 +32,7 @@ http://127.0.0.1:8000/person?name=NSCLC378
 
 ```bash
 http://127.0.0.1:8000/average?signature_name=T_cell_traffic
-
+```
 Установка через Docker<br>
 * Клонируем проект
 ```bash
