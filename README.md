@@ -44,5 +44,24 @@ sudo docker-compose up -d
 Документация находится по адресу http://127.0.0.1:8000/docs
 
 
+Установка без Docker<br>
+* Клонируем проект
+* Создаем виртуальное окружение 
+```bash
+python -m venv venv
+```
+* Активируем виртуальное окружение
+```bash
+source venv/bin/activate
+```
+* Устанавливаем зависимости из requirements.txt
+```bash
+pip install -r requirements.txt
+```
+* Запускаем http сервер командой
+```bash
+uvicorn main:app
+```
+
 
 
