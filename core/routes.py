@@ -10,7 +10,7 @@ router = APIRouter()
 patient_signatures_service = PatientSignaturesService(PatientsTSVRepository())
 
 
-@router.get("/person", response_model=Patient)
+@router.get("/patient", response_model=Patient)
 def get_patient_signatures(name: str, metrics: Optional[list[SignatureName]] = Query(None)):
     patient = patient_signatures_service.get_patient_signatures(name, metrics)
     if not patient:
